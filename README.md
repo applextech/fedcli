@@ -7,7 +7,7 @@ FedCLI is a federated data CLI for relational, NoSQL, search, graph, and cloud d
 ## Install with Homebrew
 
 ```bash
-brew install applextech/homebrew-tap/fedcli
+brew install applextech/tap/fedcli
 fedcli --help
 ```
 
